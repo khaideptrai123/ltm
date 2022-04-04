@@ -9,28 +9,14 @@ import java.net.Socket;
 
 import java.util.Scanner;
 
-
-
-
-
-
-
 public class app_client
 
 {
-
-
-
-   
-
     public static void main(String[] args) throws IOException
 
     {
 
-
-   
-
-        Socket mySocket = null;
+       Socket mySocket = null;
 
         DataOutputStream dos = null;
 
